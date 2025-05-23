@@ -1,4 +1,4 @@
-# CyberSentinel SentinelEdge 🛡️
+# SentinelEdge 🛡️
 
 <div align="center">
   <img src="front_logo.png" alt="CyberSentinel Logo" width="400"/>
@@ -22,7 +22,7 @@
 
 ## 🎯 Overview
 
-CyberSentinel SentinelEdge is an integrated cybersecurity platform that provides comprehensive **PIM**, **PAM**, and **PUM** capabilities through three powerful services. This repository contains automated installation scripts that deploy a complete security operations centre in minutes.
+SentinelEdge is an integrated cybersecurity platform that provides comprehensive **PIM**, **PAM**, and **PUM** capabilities through three powerful services. This repository contains automated installation scripts that deploy a complete security operations centre in minutes.
 
 ### 🔧 Integrated Services
 
@@ -36,8 +36,6 @@ CyberSentinel SentinelEdge is an integrated cybersecurity platform that provides
 
 ## 🚀 Quick Installation
 
-### Option 1: Complete Security Suite (Recommended)
-Deploy all three services for maximum security coverage:
 
 #### Install CyberSentinel Vault + Cloak (PIM + PUM)
 ```bash
@@ -48,20 +46,6 @@ curl -s -o install_vault_keycloak.sh https://raw.githubusercontent.com/Prajwal31
 ```bash
 curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install-jumpserver.sh && chmod +x install-jumpserver.sh && bash ./install-jumpserver.sh
 ```
-
-### Option 2: Individual Service Installation
-
-#### CyberSentinel Asset Management Only (PAM)
-```bash
-curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install-jumpserver.sh && chmod +x install-jumpserver.sh && bash ./install-jumpserver.sh
-```
-
-#### CyberSentinel Vault + Cloak Only (PIM + PUM)
-```bash
-curl -s -o install_vault_keycloak.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install_vault_keycloak.sh && chmod +x install_vault_keycloak.sh && bash ./install_vault_keycloak.sh
-```
-
----
 
 ## 📋 System Requirements
 
