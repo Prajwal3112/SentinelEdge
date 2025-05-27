@@ -47,6 +47,11 @@ curl -s -o install_vault_keycloak.sh https://raw.githubusercontent.com/Prajwal31
 curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install-jumpserver.sh && chmod +x install-jumpserver.sh && bash ./install-jumpserver.sh
 ```
 
+#### Install PIM_PAM_PUM
+```bash
+curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install_all.sh && chmod +x install_all.sh && bash ./install_all.sh
+```
+
 ## 📋 System Requirements
 
 ### Minimum Requirements
