@@ -190,16 +190,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Service Screenshots
 
 ### CyberSentinel Asset Management Dashboard
-![CyberSentinel Asset Management](https://via.placeholder.com/1200x600/2c3e50/ffffff?text=CyberSentinel+Asset+Management+Dashboard)
+![CyberSentinel Asset Management](assets/sentineledge1.png)
+![CyberSentinel Asset Management](assets/sentineledge2.png)
 
 ### CyberSentinel Vault Interface
-![CyberSentinel Vault](https://via.placeholder.com/1200x600/34495e/ffffff?text=CyberSentinel+Vault+Secrets+Management)
+![CyberSentinel Vault](assets/sentineledge5.png)
 
 ### CyberSentinel Cloak Identity Management
-![CyberSentinel Cloak](https://via.placeholder.com/1200x600/2980b9/ffffff?text=CyberSentinel+Cloak+Identity+Management)
-
-### Integrated Security Operations Centre
-![Security Operations Centre](https://via.placeholder.com/1200x600/8e44ad/ffffff?text=Integrated+Security+Operations+Centre)
+![CyberSentinel Cloak](assets/sentineledge3.png)
+![CyberSentinel Cloak](assets/sentineledge4.png)
 
 ---
 
