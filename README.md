@@ -49,7 +49,7 @@ curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/S
 
 #### Install PIM_PAM_PUM
 ```bash
-curl -s -o install-jumpserver.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install_all.sh && chmod +x install_all.sh && bash ./install_all.sh
+curl -s -o install_all.sh https://raw.githubusercontent.com/Prajwal3112/SentinelEdge/main/install_all.sh && chmod +x install_all.sh && bash ./install_all.sh
 ```
 
 ## 📋 System Requirements
